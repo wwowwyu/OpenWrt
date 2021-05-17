@@ -18,7 +18,6 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 git clone https://github.com/jerrykuku/openwrt-package.git package/openwrt-package
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-git clone https://github.com/gdck/luci-app-control-weburl.git package/luci-app-control-weburl
 git clone https://github.com/solidus1983/luci-theme-opentomato.git package/luci-theme-opentomato
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
 git clone https://github.com/kenzok8/luci-theme-ifit.git package/luci-theme-ifit
