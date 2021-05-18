@@ -19,7 +19,6 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
-git clone https://github.com/ntlf9t/luci-app-easymesh.git package/luci-app-easymesh
 git clone https://github.com/gdck/luci-app-control-weburl.git package/luci-app-control-weburl
 git clone https://github.com/solidus1983/luci-theme-opentomato.git package/luci-theme-opentomato
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
