@@ -25,7 +25,6 @@ git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-pass
 git clone https://github.com/garypang13/luci-app-bypass.git package/luci-app-bypass
 git clone https://github.com/gdck/luci-app-control-weburl.git package/luci-app-control-weburl
 git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
-git clone https://github.com/ntlf9t/luci-app-easymesh.git package/luci-app-easymesh
 cd package
 git clone https://github.com/garypang13/openwrt-packages/tree/master/lua-maxminddb.git
 git clone https://github.com/garypang13/smartdns-le.git
