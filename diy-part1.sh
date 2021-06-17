@@ -27,6 +27,7 @@ git clone https://github.com/gdck/luci-app-control-weburl.git package/luci-app-c
 git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 git clone https://github.com/honwen/luci-app-aliddns.git package/luci-app-aliddns
+git clone https://github.com/ntlf9t/luci-app-easymesh.git package/luci-app-easymesh
 cd package
 git clone https://github.com/garypang13/openwrt-packages/tree/master/lua-maxminddb.git
 git clone https://github.com/garypang13/smartdns-le.git
