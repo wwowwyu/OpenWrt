@@ -28,8 +28,8 @@ git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-
 git clone https://github.com/tty228/luci-app-serverchan.git package/luci-app-serverchan
 git clone https://github.com/honwen/luci-app-aliddns.git package/luci-app-aliddns
 git clone https://github.com/ntlf9t/luci-app-easymesh.git package/luci-app-easymesh
-git clone https://github.com/AdguardTeam/AdGuardHome.git package/luci-app-AdGuardHome
-git clone https://github.com/pymumu/smartdns.git package/luci-app-smartdns
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 cd package
 git clone https://github.com/garypang13/openwrt-packages/tree/master/lua-maxminddb.git
 git clone https://github.com/garypang13/smartdns-le.git
