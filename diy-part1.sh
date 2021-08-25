@@ -24,7 +24,6 @@ git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 git clone https://github.com/xiaorouji/openwrt-passwall.git package/openwrt-passwall
 git clone https://github.com/gdck/luci-app-control-weburl.git package/luci-app-control-weburl
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
-git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 cd package
 git clone https://github.com/garypang13/openwrt-packages/tree/master/lua-maxminddb.git
 git clone https://github.com/garypang13/smartdns-le.git
